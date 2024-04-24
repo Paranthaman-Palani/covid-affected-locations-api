@@ -1,0 +1,65 @@
+{
+    "covidAffectedLocations": [
+      {
+        "locationName": "Taj Mahal",
+        "popularityIndex": 4.7
+      },
+      {
+        "locationName": "Goa Beaches",
+        "popularityIndex": 4.5
+      },
+      {
+        "locationName": "Kerala Backwaters",
+        "popularityIndex": 4.6
+      },
+      {
+        "locationName": "Jaipur",
+        "popularityIndex": 4.4
+      },
+      {
+        "locationName": "Leh-Ladakh",
+        "popularityIndex": 4.8
+      },
+      {
+        "locationName": "Mumbai",
+        "popularityIndex": 4.2
+      },
+      {
+        "locationName": "Delhi",
+        "popularityIndex": 4.3
+      },
+      {
+        "locationName": "Agra Fort",
+        "popularityIndex": 4.6
+      },
+      {
+        "locationName": "Varanasi",
+        "popularityIndex": 4.4
+      },
+      {
+        "locationName": "Mysore Palace",
+        "popularityIndex": 4.5
+      },
+      {
+        "locationName": "Jaisalmer",
+        "popularityIndex": 4.7
+      },
+      {
+        "locationName": "Kolkata",
+        "popularityIndex": 4.1
+      },
+      {
+        "locationName": "Shimla",
+        "popularityIndex": 4.3
+      },
+      {
+        "locationName": "Darjeeling",
+        "popularityIndex": 4.6
+      },
+      {
+        "locationName": "Rishikesh",
+        "popularityIndex": 4.4
+      }
+    ]
+  }
+  
